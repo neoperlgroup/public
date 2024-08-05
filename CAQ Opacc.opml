@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+	<head>
+		<title>CAQ - Opacc.opml</title>
+		<dateCreated>
+			2020-03-10T17:07:41
+		</dateCreated>
+	</head>
+	<body>
+		<outline text="Franchise vs. Flagship">
+			<outline text="wir brauchen Standards, die für">
+				<outline text="low complex (Pizza)">
+					<outline text="Lager und Vertriebshubs">
+					</outline>
+					<outline text="Endmontagen">
+					</outline>
+					<outline text="Schlauchstandorte">
+					</outline>
+				</outline>
+				<outline text="high complex">
+					<outline text="komplizierten Kunststoffteilen im Grenzbereich">
+					</outline>
+					<outline text="Verwaltung von mehreren multi-Kavitäten Werkzeugen je Einzelteil und Lieferant">
+					</outline>
+				</outline>
+			</outline>
+			<outline text="indem wir die besondere Komplexität in einem Subsystem halten, kann der Standard einfach bleiben">
+				<outline text="wir müssen Spezialistentum nicht im Opacc abbilden">
+				</outline>
+			</outline>
+		</outline>
+		<outline text="durchgängige Prozesse sollten auch durchgängig in einem System abgebildet werden">
+			<outline text="Opacc muss den Lead bekommen und reicht für die allermeisten Fälle aus">
+			</outline>
+			<outline text="aufgesetzt nur die Spezialität">
+			</outline>
+		</outline>
+		<outline text="Insellösungen">
+			<outline text="hier haben wir die Wahl">
+				<outline text="nachbilden in Opacc, falls sinnvoll">
+				</outline>
+				<outline text="nutzen eines Drittpakets">
+				</outline>
+			</outline>
+			<outline text="zB">
+				<outline text="Auditmanagement">
+				</outline>
+				<outline text="Systemverwaltung">
+				</outline>
+			</outline>
+		</outline>
+		<outline text="CAQ">
+			<outline text="Oberfläche">
+			</outline>
+		</outline>
+	</body>
+</opml>
